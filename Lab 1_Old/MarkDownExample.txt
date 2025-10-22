@@ -1,0 +1,61 @@
+1. Markdown Rendering
+You can use Markdown for headings, lists, bold/italic text, links, and more.
+
+# This is a Heading 1
+## This is a Heading 2
+### This is a Heading 3
+
+**Bold text**
+
+*Italic text*
+
+- Bullet point 1
+- Bullet point 2
+  - Sub-bullet point
+
+[Link to Google](https://www.google.com)
+
+`Inline code`
+
+```python
+# This is a code block example
+def greet(name):
+    return f"Hello, {name}!"
+
+
+
+### 2. **LaTeX Rendering for Equations**
+
+You can render mathematical equations using LaTeX syntax by wrapping the code in `$` or `$$` for inline and block rendering, respectively.
+
+```markdown
+Inline equation: $E = mc^2$
+
+Block equation:
+$$
+E = mc^2
+$$
+
+
+2. HTML Rendering
+Jupyter Notebooks also support rendering HTML content.
+
+<h1>This is an HTML heading</h1>
+<p>This is a paragraph with <b>bold</b> and <i>italic</i> text.</p>
+
+<ul>
+    <li>First item</li>
+    <li>Second item</li>
+</ul>
+
+<img src="https://www.example.com/image.jpg" alt="Example Image" width="300">
+
+
+
+3. Displaying Images and Links in Markdown
+
+
+![Image](https://www.example.com/image.jpg)
+
+[Click here to open Google](https://www.google.com)
+
