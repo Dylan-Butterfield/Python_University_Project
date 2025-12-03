@@ -1,0 +1,9 @@
+Date: YYYY/MM/DD
+Time: HH:MM:SS
+Temperature: In degree Celsius
+Light: In Lux
+Sound: In Volts (amplifier output read by ADC)
+CO2: In PPM
+CO2 Slope: Slope of CO2 values taken in a sliding window
+PIR: Binary value conveying motion detection
+Room_Occupancy_Count: Ground Truth
