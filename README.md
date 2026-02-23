@@ -13,7 +13,7 @@
 ## Results
 - Received a high distinction for the project.
 
-- Project Feedback: Coursework is delivered to an **excellent standard**, with robust and well‑executed technical implementation. Control structures, modular design, data handling, visualisation, and GUI development are **consistently strong**. The work is **clearly presented, reproducible**, and aligned with learning outcomes, demonstrating **high technical maturity** and sustained effort throughout.
+- Project Feedback: "Coursework is delivered to an **excellent standard**, with robust and well‑executed technical implementation. Control structures, modular design, data handling, visualisation, and GUI development are **consistently strong**. The work is **clearly presented, reproducible**, and aligned with learning outcomes, demonstrating **high technical maturity** and sustained effort throughout."
 
 - Created subtables to obtain exact times of maximum and minimum readings.
 
